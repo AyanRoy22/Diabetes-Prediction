@@ -4,13 +4,13 @@ The objective of this problem is to diagnostically predict whether or not a pati
 ## Details about the dataset
 ### Sources:
    <ol>(a) Original owners: National Institute of Diabetes and Digestive and Kidney Diseases <br></ol>
-   <ol>(b) Donor of database: Vincent Sigillito (vgs@aplcen.apl.jhu.edu) <br></ol>
+   <ol>(b) Donor of database: Vincent Sigillito (vgs@aplcen.apl.jhu.edu) <br>
                           Research Center, RMI Group Leader <br>
                           Applied Physics Laboratory <br>
                           The Johns Hopkins University <br>
                           Johns Hopkins Road <br>
                           Laurel, MD 20707 <br>
-                          (301) 953-6231 <br>
+                          (301) 953-6231 <br></ol>
    <ol>(c) Date received: 9 May 1990 <br></ol>
 
 ### Relevant Information:
