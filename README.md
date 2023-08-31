@@ -2,17 +2,16 @@
 The objective of this problem is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
 
 ## Details about the dataset
-Sources:
-   (a) Original owners: National Institute of Diabetes and Digestive and
-                        Kidney Diseases
-   (b) Donor of database: Vincent Sigillito (vgs@aplcen.apl.jhu.edu)
-                          Research Center, RMI Group Leader
-                          Applied Physics Laboratory
-                          The Johns Hopkins University
-                          Johns Hopkins Road
-                          Laurel, MD 20707
-                          (301) 953-6231
-   (c) Date received: 9 May 1990
+Sources: <br>
+   (a) Original owners: National Institute of Diabetes and Digestive and Kidney Diseases <br>
+   (b) Donor of database: Vincent Sigillito (vgs@aplcen.apl.jhu.edu) <br>
+                          Research Center, RMI Group Leader <br>
+                          Applied Physics Laboratory <br>
+                          The Johns Hopkins University <br>
+                          Johns Hopkins Road <br>
+                          Laurel, MD 20707 <br>
+                          (301) 953-6231 <br>
+   (c) Date received: 9 May 1990 <br>
 
 Relevant Information:
 Several constraints were placed on the selection of these instances from a larger database.  In particular, all patients here are females at least 21 years old of Pima Indian heritage.  ADAP is an adaptive learning routine that generates and executes digital analogs of perceptron-like devices.  It is a unique algorithm; see the paper for details.
